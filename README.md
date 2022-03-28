@@ -20,8 +20,7 @@
 
 # Link to  the deployed page
 
-    https://roman-ac.github.io/assignment2-project-portfolio/
-
+https://roman-ac.github.io/updated-portfolio--by-roman-ac/
 
 # Screenshot
 

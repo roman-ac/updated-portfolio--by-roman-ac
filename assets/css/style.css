@@ -14,7 +14,7 @@ header {
     justify-content: space-between;
     padding: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #062b3d;
+    background-color: black;
     color: #ffffff;
 }
 
@@ -102,7 +102,7 @@ section {
     height: 300px;
     padding: 20px;
     font-size: 200%;
-    background-color: #062b3d;
+    background-color: black;
     color: white;    
     border-right: 2px solid black;
     border-radius: 10px;
@@ -127,7 +127,7 @@ section {
     width: 15%;
     height: 450px;
     font-size: 200%;
-    background-color: #062b3d;
+    background-color: black;
     color: white;
     border-right: 2px solid black;
     border-radius: 10px;
@@ -193,7 +193,7 @@ h3 {
     height: 100px;
     padding-right: 20px;
     font-size: 200%;
-    background-color: #062b3d;
+    background-color: black;
     color: white;
     border-right: 2px solid black;
     border-radius: 10px;
@@ -209,7 +209,7 @@ h3 {
     padding-top: 20px;
     margin-left: 20px;
     padding-left: 30px;
-    background-color: #616b75;
+    background-color: black;
     color: white;
     border-radius: 10px;
     height: 100px;
